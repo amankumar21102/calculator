@@ -1,1 +1,1 @@
-# calculator  -- this calculator is made with help of  HTML ,CSS,JAVASCRIPT
+#Tech Stach Used- HTML ,CSS,JS(javascript)
